@@ -1,0 +1,14 @@
+# Armando Hernandez
+
+## Información Personal
+- **Nombre**: Armando Hernandez
+- **Rol**: Desarrollador Frontend
+- **Experiencia**: 1 año y medio
+- **Tecnologías**: Dart, React, Git
+- **Email**: Armando@ejemplo.com
+- **Teléfono**: +52 961 123 4567
+
+## Objetivos
+- Mejorar conocimientos en Git
+- Crear apps que sean útiles para todo el mundo y que este relacionado con la tecnologia
+- Aprender nuevas tecnologías
